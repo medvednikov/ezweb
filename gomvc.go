@@ -1,5 +1,7 @@
 package gomvc
 
+// gomvc
+
 import (
 	"fmt"
 	"log"
