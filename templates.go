@@ -1,6 +1,7 @@
 package gomvc
 
 // templates
+// T2!!
 
 import (
 	"encoding/json"
