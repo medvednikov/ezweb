@@ -1,5 +1,7 @@
 package gomvc
 
+// templates
+
 import (
 	"encoding/json"
 	"fmt"
